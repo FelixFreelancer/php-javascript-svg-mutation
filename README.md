@@ -11,7 +11,7 @@ I developed this project using the meyfa/php-svg framework.
 That framework is very good to mutation the SVG file.
 Thanks for that. 
 
-![Project Result](image.png)
+![Project Result](new_layout.png)
 
 
 ## Installation
